@@ -37,7 +37,6 @@ A full-featured **Inventory Management System** designed for a stationary shop, 
 ├── nbproject/ # NetBeans project files
 ├── icons/ # Icons used in the GUI
 ├── sql/main queries.sql # SQL file to set up the database
-├── lib/ # (Optional) External .jar libraries
 ├── manifest.mf # Project manifest
 ├── README.md # This file
 └── .gitignore
