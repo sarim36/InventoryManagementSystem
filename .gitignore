@@ -1,0 +1,8 @@
+/build/
+/dist/
+*.class
+*.jar
+*.log
+*.iml
+*.db
+.DS_Store
