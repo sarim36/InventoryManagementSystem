@@ -10,8 +10,8 @@ A full-featured **Inventory Management System** designed for a stationary shop, 
 
 - 🔄 Full **CRUD operations** for:
   - Products
-  - Categories
-  - Sales
+  - Customers
+  - Supplier
 - 📦 Inventory tracking with low-stock alerts
 - 📈 Visual reports using **JFreeChart**
 - 📊 Track **popular products** based on sales data
